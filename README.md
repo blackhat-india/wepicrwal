@@ -26,7 +26,7 @@
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg?style=for-the-badge)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange.svg?style=for-the-badge)](#-contributing)
 
-*Developed with ❤️ by **Md Zishan Raza***
+*Developed with ❤️ by **Nitish Sharma***
 
 [Features](#-key-features) • [Installation](#️-manual-step-by-step-installation--setup) • [Usage](#-usage--examples) • [Screenshots](#-screenshots--workflow) • [Disclaimer](#-legal-disclaimer)
 
@@ -216,7 +216,7 @@ Is project ko **MIT License** ke andar distribute kiya gaya hai — dekhein [`LI
 
 <div align="center">
 
-**Md Zishan Raza**
+**Nitish Sharma**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
