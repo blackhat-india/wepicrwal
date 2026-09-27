@@ -43,7 +43,7 @@ def print_banner():
                           █████       wepicrwal - Web Vuln Scanner               
                          ░░░░░        
     -----------------------------------------------------
-          Developed by: Md Zishan Raza
+          Developed by: Nitish Sharma
     -----------------------------------------------------
 """
     print(C.CYAN + banner + C.END)
